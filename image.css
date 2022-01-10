@@ -1,0 +1,58 @@
+body{
+	
+	background-repeat: no-repeat;
+	height: 100%;
+	width:100%;
+	background-size: cover;
+	background-image: url("img1.jpg");
+
+}
+img{
+	
+	height: 150px;
+	width: 350px;
+	margin-left: 50px
+}
+.one{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100;
+	text-transform: uppercase;
+	text-align: center;
+        background-color:yellow;
+	
+}
+nav{
+	font-weight: bold;
+	text-transform: uppercase;
+	position: absolute;
+	font-size: 40px;
+}
+table{
+	height: 100px;
+	width: 80px
+
+
+}
+.TWO{
+	padding: 20px;
+	font-size: 60px;
+	text-align: center;
+	
+	
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: transparent;
+  color: white;
+  text-align: center;
+  padding: 20px
+
+
+
+
+

@@ -1,0 +1,38 @@
+.one{
+	font-size: 30px;
+	font-family: serif;
+}
+h1{ 
+	text-align:  center;
+	color:green;
+ } 
+ body{
+ 	background-color: white;
+ 
+ }
+ .two{
+ 	font-size: 15px;
+ 	font-family: sans-serif;
+ 	font-style: italic;
+ }
+.three{
+	font-family: sans-serif;
+	font-weight: bold;
+	color: grey
+}
+.one{
+	padding: 20px;
+	font-size: 60px;
+	text-align: center;
+	
+}
+.five{
+	font-size: 24px;
+	border-top: 3px solid blue
+}
+nav{
+	font-weight: bold;
+	text-transform: uppercase;
+	position: absolute;
+	font-size: 40px;
+}

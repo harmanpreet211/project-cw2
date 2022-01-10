@@ -1,0 +1,28 @@
+table{
+	border:2px solid;
+	width: 100%;
+	height: 100%;
+} 
+tr,td{
+	height: 45px;
+	width: 45px;
+
+}
+div:nth-child(odd){
+background-color: white;
+}
+body{
+	background-color:white
+}
+nav{
+	font-weight: bold;
+	text-transform: uppercase;
+	position: absolute;
+	font-size: 40px;
+}
+.one{
+	padding: 20px;
+	font-size: 60px;
+	text-align: center;
+	
+}
